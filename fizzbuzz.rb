@@ -1,3 +1,5 @@
 
 define #fizzbuzz()
-if (the number is divisible by 3)
+if (theNumber is divisible by 3) then print "Fizz"
+else if (theNumber is divisible by 5) then print "Buzz"
+else (theNumber is )
