@@ -1,5 +1,5 @@
 
-define #fizzbuzz()
+define fizzbuzz()
 if (theNumber is divisible by 3) then print "Fizz"
 else if (theNumber is divisible by 5) then print "Buzz"
 else if (theNumber is divisible by 3) then 
